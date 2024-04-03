@@ -4,9 +4,6 @@
   <br/>
 </p>
 
-<p align="center">
-    <i>Hugging Face Hub Python 客户端</i>
-</p>
 
 <p align="center">
     <a href="https://huggingface.co/docs/huggingface_hub/en/index"><img alt="Documentation" src="https://img.shields.io/website/http/huggingface.co/docs/huggingface_hub/index.svg?down_color=red&down_message=offline&up_message=online&label=doc"></a>
